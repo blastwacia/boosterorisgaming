@@ -181,7 +181,7 @@ document.getElementById("start-btn").addEventListener("click", () => {
       const messageContainer = document.createElement("div");
       messageContainer.classList.add("boost-message");
       messageContainer.innerHTML = `
-        <p>ID: ${username} telah berhasil di-boosting, segera bermain di Website BANDARTOTO666 !!!</p>
+        <p>ID: ${username} telah berhasil di-boosting, segera bermain di Website ORISGAMING !!!</p>
         <p>Berlaku sampai dengan jam ${hours}:${minutes} hari ini.</p>
       `;
 
